@@ -1,0 +1,1 @@
+# SHA-Hash-Analyzer
